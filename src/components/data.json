@@ -1,0 +1,27 @@
+[
+    {
+    id: 1,
+    title: 'BURGER',
+    imageUrl: 'https: //images.pexels.com/photos/1552641/pexels-photo-1552641.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+    },
+    {
+    id: 2,
+    title: 'PIZZA',
+    imageUrl: 'https: //images.pexels.com/photos/263041/pexels-photo-263041.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 '
+    },
+    {
+    id: 3,
+    title: 'SALAD',
+    imageUrl: 'https: //images.pexels.com/photos/7282789/pexels-photo-7282789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+    },
+    {
+    id: 4,
+    title: 'JOLLOF RICE',
+    imageUrl: 'https: //media.istockphoto.com/photos/kao-mok-kai-thai-chicken-biryani-picture-id1153859804?k=20&m=1153859804&s=612x612&w=0&h=K-Nd2RxjzorX8_lGkgjORATT4gVmJY6aWOn1tGLOlY0='
+    },
+    {
+    id: 5,
+    title: 'YOGHURT',
+    imageUrl: 'https: //images.pexels.com/photos/5945660/pexels-photo-5945660.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+    }
+]
