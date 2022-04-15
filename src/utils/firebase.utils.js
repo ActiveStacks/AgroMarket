@@ -1,5 +1,5 @@
 import {initializeApp } from 'firebase/app';
-import { getAuth, signInWithRedirect, signInWithPopup, GoogleAuthProvider, createUserWithEmailAndPassword} from 'firebase/auth';
+import { getAuth,signInWithEmailAndPassword ,signInWithRedirect, signInWithPopup, GoogleAuthProvider, createUserWithEmailAndPassword} from 'firebase/auth';
 import { getFirestore, doc, getDoc, setDoc} from 'firebase/firestore';
 import { useEffect } from 'react';
 import { getRedirectResult } from 'firebase/auth';
@@ -70,4 +70,9 @@ const firebaseConfig = {
 
   }
 
-  
+  export const signInAuthUserWithEmailAndPassword = async (email, password) => {
+    if (!email || !password) return;
+    
+  return await signInWithEmailAndPassword(auth, email, password)
+
+}
