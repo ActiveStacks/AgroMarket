@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "BURGER",
+        "imageUrl": " https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YnVyZ2VyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "price": 25
+    },
+    {
+        "id": 2,
+        "name": "BREAD",
+        "imageUrl": "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YnJlYWR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60 ",
+        "price": 55
+    },
+    {
+        "id": 3,
+        "name": "CAKES",
+        "imageUrl": "https://images.unsplash.com/photo-1607478900766-efe13248b125?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGNha2V8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60 ",
+        "price": 20
+    },
+    {
+        "id": 4,
+        "name": "NUTS",
+        "imageUrl": "https://images.unsplash.com/photo-1615485737457-f07082c77813?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fG51dHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60 ",
+        "price": 35
+    },
+    {
+        "id": 5,
+        "name": "FRUITS",
+        "imageUrl": "https://images.unsplash.com/photo-1546548970-71785318a17b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZnJ1aXRzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60 ",
+        "price": 25
+    },
+    {
+        "id": 6,
+        "name": "VEGETABLES",
+        "imageUrl": "https://images.unsplash.com/photo-1575218823251-f9d243b6f720?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHZlZ2V0YWJsZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60 ",
+        "price": 25
+    },
+    {
+        "id": 7,
+        "name": "WINE",
+        "imageUrl": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d2luZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60 ",
+        "price": 25
+    },
+    {
+        "id": 8,
+        "name": "SOFT DRINKS",
+        "imageUrl": "https://images.unsplash.com/photo-1630979805425-08f5f5f39aff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHNvZnQlMjBkcmlua3N8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60 ",
+        "price": 25
+    },
+    {
+        "id": 9,
+        "name": "JOLLOF FRICE",
+        "imageUrl": " https://images.unsplash.com/photo-1512058564366-18510be2db19?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80",
+        "price": 25
+    },
+    {
+        "id": 10,
+        "name": "FRIED FRICE",
+        "imageUrl": " https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZnJpZWQlMjByaWNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60  ",
+        "price": 25
+    },
+    {
+        "id": 11,
+        "name": "PORRIDGE",
+        "imageUrl": " https://images.unsplash.com/photo-1631077017682-70c1f4d24f4d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHBvcnJpZGdlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "price": 25
+    },
+    {
+        "id": 12,
+        "name": "NOODLES",
+        "imageUrl": " https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZnJpZWQlMjByaWNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60 ",
+        "price": 25
+    }
+]

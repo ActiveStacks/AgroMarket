@@ -4,16 +4,18 @@ import {Routes, Route, Outlet} from 'react-router-dom';
 import Navigation from './components/routes/navigation/navigation.component';
 import Authentication from './authentication/authentication.components';
 import SignUpForm from './components/sign-up-form/sign-up-form.component';
+import Shop from './components/shop/shop.component';
 
 
-const Shop = () => {
-    return (
-    <div>
-    <h1> I AM THE SHOP component</h1> 
-    <Outlet/>
-    </div>
-    )
-}
+
+// const Shop = () => {
+//     return (
+//     <div>
+//     <h1> I AM THE SHOP component</h1> 
+//     <Outlet/>
+//     </div>
+//     )
+// }
 
 
 const App = () => {
