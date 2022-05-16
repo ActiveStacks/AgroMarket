@@ -5,17 +5,7 @@ import Navigation from './components/routes/navigation/navigation.component';
 import Authentication from './authentication/authentication.components';
 import SignUpForm from './components/sign-up-form/sign-up-form.component';
 import Shop from './components/shop/shop.component';
-
-
-
-// const Shop = () => {
-//     return (
-//     <div>
-//     <h1> I AM THE SHOP component</h1> 
-//     <Outlet/>
-//     </div>
-//     )
-// }
+import CheckOut from './components/routes/checkout/checkout.component';
 
 
 const App = () => {
@@ -29,6 +19,7 @@ const App = () => {
         <Route path='shop' element={<Shop/>}/>
         <Route path='auth' element={<Authentication/>}/>
         <Route path='sign-up' element={<SignUpForm/>}/>
+        <Route path='checkout' element={<CheckOut/>}/>
       </Route>
     </Routes>  
   
